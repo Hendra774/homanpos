@@ -6,7 +6,7 @@
 <div id="page" class="site">
 
     <div id="content" class="site-content">
-        <div data-elementor-type="wp-post" data-elementor-id="1437" class="elementor elementor-1437"
+        <div data-elementor-type="assets/wp-post" data-elementor-id="1437" class="elementor elementor-1437"
             data-elementor-settings="[]">
             <div class="elementor-inner">
                 <div class="elementor-section-wrap">
@@ -86,7 +86,7 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
                                                                                 <img width="1014" height="709"
-                                                                                    src="wp-content/uploads/2019/07/home9-new-banner-side-img1.png"
+                                                                                    src="assets/wp-content/uploads/2019/07/home9-new-banner-side-img1.png"
                                                                                     class="attachment-full size-full"
                                                                                     alt="" loading="lazy"
                                                                                     srcset="https://applounge.radiantthemes.com/wp-content/uploads/2019/07/home9-new-banner-side-img1.png 1014w, https://applounge.radiantthemes.com/wp-content/uploads/2019/07/home9-new-banner-side-img1-300x210.png 300w, https://applounge.radiantthemes.com/wp-content/uploads/2019/07/home9-new-banner-side-img1-768x537.png 768w"
@@ -173,7 +173,7 @@
                                                                             <div class="elementor-image-box-wrapper">
                                                                                 <figure class="elementor-image-box-img">
                                                                                     <a href="#"><img
-                                                                                            src="wp-content/uploads/2019/07/v2-feature-icon-01.svg"
+                                                                                            src="assets/wp-content/uploads/2019/07/v2-feature-icon-01.svg"
                                                                                             title="" alt="" /></a>
                                                                                 </figure>
                                                                                 <div
@@ -209,7 +209,7 @@
                                                                             <div class="elementor-image-box-wrapper">
                                                                                 <figure class="elementor-image-box-img">
                                                                                     <a href="#"><img
-                                                                                            src="wp-content/uploads/2019/07/v2-feature-icon-02.svg"
+                                                                                            src="assets/wp-content/uploads/2019/07/v2-feature-icon-02.svg"
                                                                                             title="" alt="" /></a>
                                                                                 </figure>
                                                                                 <div
@@ -245,7 +245,7 @@
                                                                             <div class="elementor-image-box-wrapper">
                                                                                 <figure class="elementor-image-box-img">
                                                                                     <a href="#"><img
-                                                                                            src="wp-content/uploads/2019/07/v2-feature-icon-03.svg"
+                                                                                            src="assets/wp-content/uploads/2019/07/v2-feature-icon-03.svg"
                                                                                             title="" alt="" /></a>
                                                                                 </figure>
                                                                                 <div
@@ -342,7 +342,7 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
                                                                                 <img width="587" height="553"
-                                                                                    src="wp-content/uploads/2019/07/v10-img-1-2.png"
+                                                                                    src="assets/wp-content/uploads/2019/07/v10-img-1-2.png"
                                                                                     class="attachment-full size-full"
                                                                                     alt="" loading="lazy"
                                                                                     srcset="https://applounge.radiantthemes.com/wp-content/uploads/2019/07/v10-img-1-2.png 587w, https://applounge.radiantthemes.com/wp-content/uploads/2019/07/v10-img-1-2-300x283.png 300w"
@@ -373,7 +373,7 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
                                                                                 <img width="621" height="657"
-                                                                                    src="wp-content/uploads/2019/07/v10-img-2-1.png"
+                                                                                    src="assets/wp-content/uploads/2019/07/v10-img-2-1.png"
                                                                                     class="attachment-full size-full"
                                                                                     alt="" loading="lazy"
                                                                                     srcset="https://applounge.radiantthemes.com/wp-content/uploads/2019/07/v10-img-2-1.png 621w, https://applounge.radiantthemes.com/wp-content/uploads/2019/07/v10-img-2-1-600x635.png 600w, https://applounge.radiantthemes.com/wp-content/uploads/2019/07/v10-img-2-1-284x300.png 284w"
@@ -422,7 +422,7 @@
                                                                             <div class="elementor-image-box-wrapper">
                                                                                 <figure class="elementor-image-box-img">
                                                                                     <img width="18" height="19"
-                                                                                        src="wp-content/uploads/2019/06/check-icon.png"
+                                                                                        src="assets/wp-content/uploads/2019/06/check-icon.png"
                                                                                         class="attachment-full size-full"
                                                                                         alt="" loading="lazy" />
                                                                                 </figure>
@@ -452,7 +452,7 @@
                                                                             <div class="elementor-image-box-wrapper">
                                                                                 <figure class="elementor-image-box-img">
                                                                                     <img width="18" height="19"
-                                                                                        src="wp-content/uploads/2019/06/check-icon.png"
+                                                                                        src="assets/wp-content/uploads/2019/06/check-icon.png"
                                                                                         class="attachment-full size-full"
                                                                                         alt="" loading="lazy" />
                                                                                 </figure>
@@ -586,7 +586,7 @@
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-image">
                                                         <img width="625" height="471"
-                                                            src="wp-content/uploads/2019/08/122-1.png"
+                                                            src="assets/wp-content/uploads/2019/08/122-1.png"
                                                             class="attachment-full size-full" alt="" loading="lazy"
                                                             srcset="https://applounge.radiantthemes.com/wp-content/uploads/2019/08/122-1.png 625w, https://applounge.radiantthemes.com/wp-content/uploads/2019/08/122-1-300x226.png 300w"
                                                             sizes="(max-width: 625px) 100vw, 625px" />
@@ -667,7 +667,7 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
                                                                                 <img width="726" height="575"
-                                                                                    src="wp-content/uploads/2019/07/v10-img-4-2.png"
+                                                                                    src="assets/wp-content/uploads/2019/07/v10-img-4-2.png"
                                                                                     class="attachment-full size-full"
                                                                                     alt="" loading="lazy"
                                                                                     srcset="https://applounge.radiantthemes.com/wp-content/uploads/2019/07/v10-img-4-2.png 726w, https://applounge.radiantthemes.com/wp-content/uploads/2019/07/v10-img-4-2-600x475.png 600w, https://applounge.radiantthemes.com/wp-content/uploads/2019/07/v10-img-4-2-300x238.png 300w"
@@ -692,7 +692,7 @@
                                                                                 <figure class="elementor-image-box-img">
                                                                                     <a href="#"><img width="45"
                                                                                             height="45"
-                                                                                            src="wp-content/uploads/2019/07/v10-feature-icon-4-1.png"
+                                                                                            src="assets/wp-content/uploads/2019/07/v10-feature-icon-4-1.png"
                                                                                             class="attachment-full size-full"
                                                                                             alt="" loading="lazy" /></a>
                                                                                 </figure>
@@ -723,7 +723,7 @@
                                                                                 <figure class="elementor-image-box-img">
                                                                                     <a href="#"><img width="48"
                                                                                             height="48"
-                                                                                            src="wp-content/uploads/2019/07/v10-feature-icon-5.png"
+                                                                                            src="assets/wp-content/uploads/2019/07/v10-feature-icon-5.png"
                                                                                             class="attachment-full size-full"
                                                                                             alt="" loading="lazy" /></a>
                                                                                 </figure>
@@ -754,7 +754,7 @@
                                                                                 <figure class="elementor-image-box-img">
                                                                                     <a href="#"><img width="43"
                                                                                             height="49"
-                                                                                            src="wp-content/uploads/2019/07/v10-feature-icon-6.png"
+                                                                                            src="assets/wp-content/uploads/2019/07/v10-feature-icon-6.png"
                                                                                             class="attachment-full size-full"
                                                                                             alt="" loading="lazy" /></a>
                                                                                 </figure>
@@ -869,14 +869,14 @@
                                                                                     <div class="holder">
                                                                                         <div class="pic"><img
                                                                                                 loading="lazy"
-                                                                                                src="wp-content/plugins/radiantthemes-addons/assets/images/Blank-Image-100x70.png"
+                                                                                                src="assets/wp-content/plugins/radiantthemes-addons/assets/images/Blank-Image-100x70.png"
                                                                                                 alt="Leisure at workplace"
                                                                                                 data-no-retina=""
                                                                                                 width="400"
                                                                                                 height="264"><a
                                                                                                 class="placeholder"
                                                                                                 href="../case-studies/leisure-at-workplace/index.html"
-                                                                                                style="background-image:url(wp-content/uploads/2019/07/7.jpg)"></a>
+                                                                                                style="background-image:url(assets/wp-content/uploads/2019/07/7.jpg)"></a>
                                                                                         </div>
                                                                                         <div class="post-btn"><a
                                                                                                 href="../case-studies/leisure-at-workplace/index.html"
@@ -903,14 +903,14 @@
                                                                                     <div class="holder">
                                                                                         <div class="pic"><img
                                                                                                 loading="lazy"
-                                                                                                src="wp-content/plugins/radiantthemes-addons/assets/images/Blank-Image-100x70.png"
+                                                                                                src="assets/wp-content/plugins/radiantthemes-addons/assets/images/Blank-Image-100x70.png"
                                                                                                 alt="Graphics designing"
                                                                                                 data-no-retina=""
                                                                                                 width="400"
                                                                                                 height="264"><a
                                                                                                 class="placeholder"
                                                                                                 href="../case-studies/graphics-designing/index.html"
-                                                                                                style="background-image:url(wp-content/uploads/2019/07/5.jpg)"></a>
+                                                                                                style="background-image:url(assets/wp-content/uploads/2019/07/5.jpg)"></a>
                                                                                         </div>
                                                                                         <div class="post-btn"><a
                                                                                                 href="../case-studies/graphics-designing/index.html"
@@ -936,14 +936,14 @@
                                                                                     <div class="holder">
                                                                                         <div class="pic"><img
                                                                                                 loading="lazy"
-                                                                                                src="wp-content/plugins/radiantthemes-addons/assets/images/Blank-Image-100x70.png"
+                                                                                                src="assets/wp-content/plugins/radiantthemes-addons/assets/images/Blank-Image-100x70.png"
                                                                                                 alt="Photography tips"
                                                                                                 data-no-retina=""
                                                                                                 width="400"
                                                                                                 height="264"><a
                                                                                                 class="placeholder"
                                                                                                 href="../case-studies/photography-tips/index.html"
-                                                                                                style="background-image:url(wp-content/uploads/2019/07/4.jpg)"></a>
+                                                                                                style="background-image:url(assets/wp-content/uploads/2019/07/4.jpg)"></a>
                                                                                         </div>
                                                                                         <div class="post-btn"><a
                                                                                                 href="../case-studies/photography-tips/index.html"
@@ -1046,7 +1046,7 @@
                                                                                 <div class="holder">
                                                                                     <div class="icon"><img width="59"
                                                                                             height="60"
-                                                                                            src="wp-content/uploads/2019/06/pricing-icon-1.png"
+                                                                                            src="assets/wp-content/uploads/2019/06/pricing-icon-1.png"
                                                                                             class="attachment-full size-full"
                                                                                             alt="" loading="lazy" />
                                                                                     </div>
@@ -1107,7 +1107,7 @@
                                                                                     </div>
                                                                                     <div class="icon"><img width="60"
                                                                                             height="58"
-                                                                                            src="wp-content/uploads/2019/06/pricing-icon-2.png"
+                                                                                            src="assets/wp-content/uploads/2019/06/pricing-icon-2.png"
                                                                                             class="attachment-full size-full"
                                                                                             alt="" loading="lazy" />
                                                                                     </div>
@@ -1164,7 +1164,7 @@
                                                                                 <div class="holder">
                                                                                     <div class="icon"><img width="45"
                                                                                             height="60"
-                                                                                            src="wp-content/uploads/2019/06/pricing-icon-3.png"
+                                                                                            src="assets/wp-content/uploads/2019/06/pricing-icon-3.png"
                                                                                             class="attachment-full size-full"
                                                                                             alt="" loading="lazy" />
                                                                                     </div>
@@ -1291,7 +1291,7 @@
                                                                                 <figure class="elementor-image-box-img">
                                                                                     <a href="#"><img width="42"
                                                                                             height="42"
-                                                                                            src="wp-content/uploads/2019/07/v10-feature-icon-7.png"
+                                                                                            src="assets/wp-content/uploads/2019/07/v10-feature-icon-7.png"
                                                                                             class="attachment-full size-full"
                                                                                             alt="" loading="lazy" /></a>
                                                                                 </figure>
@@ -1339,7 +1339,7 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
                                                                                 <img width="1180" height="43"
-                                                                                    src="wp-content/uploads/2019/07/time-line-bg.png"
+                                                                                    src="assets/wp-content/uploads/2019/07/time-line-bg.png"
                                                                                     class="attachment-full size-full"
                                                                                     alt="" loading="lazy"
                                                                                     srcset="https://applounge.radiantthemes.com/wp-content/uploads/2019/07/time-line-bg.png 1180w, https://applounge.radiantthemes.com/wp-content/uploads/2019/07/time-line-bg-600x22.png 600w, https://applounge.radiantthemes.com/wp-content/uploads/2019/07/time-line-bg-300x11.png 300w, https://applounge.radiantthemes.com/wp-content/uploads/2019/07/time-line-bg-768x28.png 768w, https://applounge.radiantthemes.com/wp-content/uploads/2019/07/time-line-bg-1024x37.png 1024w"
@@ -1372,7 +1372,7 @@
                                                                                 <figure class="elementor-image-box-img">
                                                                                     <a href="#"><img width="48"
                                                                                             height="48"
-                                                                                            src="wp-content/uploads/2019/07/v10-feature-icon-5.png"
+                                                                                            src="assets/wp-content/uploads/2019/07/v10-feature-icon-5.png"
                                                                                             class="attachment-full size-full"
                                                                                             alt="" loading="lazy" /></a>
                                                                                 </figure>
@@ -1414,7 +1414,7 @@
                                                                                 <figure class="elementor-image-box-img">
                                                                                     <a href="#"><img width="49"
                                                                                             height="49"
-                                                                                            src="wp-content/uploads/2019/07/v10-feature-icon-8.png"
+                                                                                            src="assets/wp-content/uploads/2019/07/v10-feature-icon-8.png"
                                                                                             class="attachment-full size-full"
                                                                                             alt="" loading="lazy" /></a>
                                                                                 </figure>

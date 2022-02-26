@@ -3,10 +3,10 @@
 
 
 <link rel='stylesheet' id='elementor-post-5239-css''
-    href=' wp-content/uploads/elementor/css/post-52396c29.css?ver=1642489977' type='text/css' media='all' />
+    href='assets/wp-content/uploads/elementor/css/post-52396c29.css?ver=1642489977' type='text/css' media='all' />
 
 <link rel='stylesheet' id='elementor-post-5285-css''
-    href=' wp-content/uploads/elementor/css/post-5285c0a4.css?ver=1642490080' type='text/css' media='all' />
+    href=' assets/wp-content/uploads/elementor/css/post-5285c0a4.css?ver=1642490080' type='text/css' media='all' />
 
 
 <div class="wraper_inner_banner">
