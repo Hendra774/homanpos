@@ -1,0 +1,88 @@
+body{
+		font-family: "Open Sans";
+}
+h1, h2, h3, h4, h5, h6, .inner_banner_main .title {
+			
+	font-family: "futura-pt";
+	}
+          .elementor-counter-number, .rt-pricing-table > .holder > .pricing > .price, .radiantthemes-accordion .text {
+	font-family: "futura-pt";
+    }
+		
+
+.radiantthemes-website-layout.boxed{
+	max-width: 1200px ;
+}
+
+@media (min-width: 1200px){
+
+	.radiantthemes-website-layout.boxed .container{
+	    width: calc( 1200px - 30px) ;
+	}
+
+	.radiantthemes-website-layout.boxed .container.page-container{
+	    width: 1200px ;
+	}
+
+}
+
+.radiantthemes-website-layout.boxed .container-fluid{
+	max-width: calc( 1200px - 30px) ;
+}
+
+
+
+
+
+
+
+
+body[data-header-style='header-style-one'] #hamburger-menu{
+	max-width: 550px ;
+}
+
+body[data-header-style='header-style-one'] #hamburger-menu.right{
+	right: -550px ;
+}
+
+
+body[data-header-style='header-style-two'] #hamburger-menu{
+	max-width: 550px ;
+}
+
+body[data-header-style='header-style-two'] #hamburger-menu.right{
+	right: -550px ;
+}
+
+
+body[data-header-style='header-style-six'] #hamburger-menu{
+	max-width: 550px ;
+}
+
+body[data-header-style='header-style-six'] #hamburger-menu.right{
+	right: -550px ;
+}
+
+
+body[data-header-style='header-style-sixteen'] #hamburger-menu{
+	max-width: 550px ;
+}
+
+body[data-header-style='header-style-sixteen'] #hamburger-menu.right{
+	right: -550px ;
+}
+
+
+.wraper_inner_banner_main .inner_banner_main{
+	text-align: left ;
+}
+
+.wraper_inner_banner_breadcrumb .inner_banner_breadcrumb{
+	text-align: left ;
+}
+
+
+
+
+
+

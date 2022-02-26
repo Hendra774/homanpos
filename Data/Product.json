@@ -1,0 +1,32 @@
+{
+    "ProductList": [
+    {
+        "id": 1,
+        "image": "https://website-api-05aa0f8accaf9fc0.s3-ap-southeast-1.amazonaws.com/hardware/16418840952271/raw/A7_lite.jpg",
+        "title": "Product 1",
+        "url" : "",
+        "description" : "Rp 2,600,000"
+    },
+    {
+        "id": 2,
+        "image": "https://website-api-05aa0f8accaf9fc0.s3-ap-southeast-1.amazonaws.com/hardware/16447587594971/raw/Imin_D1_tablet_moka_website.png",
+        "title": "Product 2",
+        "url" : "",
+        "description" : "Rp 4,120,000"
+    },
+    {
+        "id": 3,
+        "image": "https://website-api-05aa0f8accaf9fc0.s3-ap-southeast-1.amazonaws.com/hardware/16227108163131/raw/c8d068e9d043b8027e4a13339993af73_2_.jpg",
+        "title": "Product 3",
+        "url" : "",
+        "description" : "Rp 8,900,000"
+    },
+    {
+        "id": 4,
+        "image": "https://website-api-05aa0f8accaf9fc0.s3-ap-southeast-1.amazonaws.com/hardware/16226907208401/raw/IMG_8068_1_.jpg",
+        "title": "Product 4",
+        "url" : "",
+        "description" : "Rp 12,999,000"
+    }
+    ]
+}
